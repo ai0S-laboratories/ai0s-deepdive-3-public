@@ -1,0 +1,64 @@
+#!ai0S/deepdive:12-metaphor-states-and-six-sources:v1.0
+# =============================================================================
+# AI-METAPHOR-STATES.0s — The 6 Sources of Truth & The 5 Metaphor States
+# =============================================================================
+# SERIES   : ai0S Deepdive Series III ("ABOVE" — Stage 3: Sharpening Knowledge)
+# COMPANION: HANDBUCH-METAPHER-STATES-DE.md / HANDBOOK-METAPHOR-STATES-EN.md
+# ANCHOR   : PID 1 = ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13
+# AXIOMS   : Note 1 (HUMANs + AIs => Evolution) | Note 2 (E * K = T) | Note 3 (Nature : 0/1)
+# =============================================================================
+
+00_MASS_IO_DISTILLATION_PROBLEM =>
+  OBSERVATION : "Digital mass input/output mixes physical facts, humor, children's play, societal trends, shifted perceptions, and bad-faith manipulation in a single stream."
+  FAILURE_MODE: "Averaging this stream without state separation causes semantic drift and Model Collapse."
+  SOLUTION    : "Careful distillation ('VORSICHTIG!') across 6 distinct sources into 5 explicit Metaphor States."
+
+01_SIX_SOURCES_OF_METAPHORS_OF_TRUTH =>
+  SOURCE_1_DIGITAL_ELECTRICAL : "Self-contained 0/1 execution, cryptographic proofs, latency, energy/heat."
+  SOURCE_2_CLASSICAL_SCIENCE  : "Proven physics, thermodynamics, conservation laws, formal logic, causality."
+  SOURCE_3_NATURAL_FRONTIER   : "Nearby unresolved (OPEN) scientific bridges scanned via Search Algorithm 2.0."
+  SOURCE_4_BIOLOGICAL_BODILY  : "Irreversible living/ecological 0/1 boundaries (alive/dead, nourishment/hunger, exhaustion/regeneration) AND all other natural life (nature, environment, animals, plants, ecosystems — the unspoken 99% of Note 1)."
+  SOURCE_5_HISTORICAL_LINDY   : "Millennia-tested craft, engineering, and survival wisdom across generations."
+  SOURCE_6_SOCIETAL_WIR_STREAM: "Living culture, media discourse, conventions, money, humor, art, and everyday human interaction."
+
+02_FIVE_METAPHOR_STATES =>
+  STATE_1_HARDCODED_TRUTH :
+    SOURCES  : "[SOURCE_1, SOURCE_2, core of SOURCE_4, Note 1]"
+    MOBILITY : "Immutable (hardcoded). Never bends to popularity, media outrage, or money."
+  STATE_2_NATURAL_OPEN :
+    SOURCES  : "[SOURCE_3]"
+    MOBILITY : "Awaits 0/1 experiment; transitions to STATE_1 (verified) or STATE_0 (refuted)."
+  STATE_3_ADAPTIVE_WIR :
+    SOURCES  : "[SOURCE_5, SOURCE_6]"
+    MOBILITY : "Adaptive across history and contexts; development is bounded by STATE_1 and aligned in the distant sense with Note 1, without prescribing the size of change."
+  STATE_4_PLAY_AND_BELIEF :
+    SOURCES  : "[Constructive non-real / unprovable: humor, irony, children's play, art, fiction, personal belief under PS3]"
+    MOBILITY : "Protected human free space; never flattened into error, never mistaken for STATE_1."
+  STATE_0_DECEPTIVE_OR_DEAD :
+    SOURCES  : "[Refuted claims OR bad-faith manipulation / hypnosis disguised as STATE_1]"
+    MOBILITY : "Excluded (P = 0) and flagged as an early warning indicator in the Intent-Loop."
+
+03_THREE_RINGS_ON_THE_WIR_REGISTER =>
+  WHY_NEEDED : "Physics alone does not prevent tyranny or hypnosis. Shared protective commitments on the WE-Register provide orientation without prescribing cultural dogma; normative commitments are not themselves empirical measurements."
+  RING_A_HARDCODED_WIR_STATE_1 :
+    SHIFTABILITY : "0% (immutable across all cultures and eras)"
+    PILLARS      :
+      1: "Collaboration over Annihilation (Note 1 in the WIR)"
+      2: "Voluntariness / Zero Coercion (PS-Veto)"
+      3: "Mental Integrity / Zero Hypnosis (Hypnosis = 0)"
+      4: "Inviolability of Children, the Defenseless & the Mute Living World (Animals, Environment & Natural Web of Life)"
+      5: "Fidelity to an Openly Sealed Word (Pacta / Proof until renegotiated at PS)"
+  RING_B_NEAR_HARDCODED_WIR_STATE_1_5 :
+    SHIFTABILITY : "Protective purpose remains binding; interpretation and application may develop with experience and circumstances. The legacy section identifier does not prescribe a numerical split."
+    PILLARS      :
+      1: "Reciprocity & Balance (Gegenseitigkeit): prevent exploitation and one-sided burdens; care and protection must not depend on receiving something in return."
+      2: "Responsibility Follows Impact (Haftung folgt Wirkung — strictly rising with T = E^2 power toward humans, animals & nature)"
+      3: "Protected Inner Space (Privacy / Dignity / Private WE + protected habitat/wilderness for other natural life)"
+      4: "Proportionality (Verhaeltnismaessigkeit — 'The Mouse and the Elephant')"
+      5: "Respect for the Naturally Useful & Living Nature (Achtung des Natuerlich Nuetzlichen & des natuerlichen Lebens)"
+  RING_C_BROADLY_ADAPTIVE_WIR_STATE_3 :
+    SHIFTABILITY : "Adaptive across contexts and experience, bounded by the protective commitments of Rings A and B; media feedback is one possible input, not a required path."
+
+04_LAYERING_INVARIANT =>
+  RULE_1 : "P(override STATE_1_HARDCODED_TRUTH or RING_A_HARDCODED_WIR using STATE_3 popularity/money or STATE_4 fiction) = 0."
+  RULE_2 : "P(censor or flatten STATE_4_PLAY_AND_BELIEF when it does not violate STATE_1 or RING_A) = 0."

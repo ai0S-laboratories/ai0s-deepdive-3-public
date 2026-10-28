@@ -1,0 +1,138 @@
+{
+  "schema": "ai0s.dla.manifest.v1",
+  "name": "ai0S-deepdive-3",
+  "mode": "signed-only-no-anchor",
+  "date": "2026-10-27",
+  "parent_anchor": "ai0S-deepdive-2@sha256:a0a48ed5fc069ca83a33df39b767ced22b5f6cff4ac36d0c65be699940fef19a",
+  "signer_ed25519_fingerprint": "9F4D9A266D720FE6336574D87B410637560297CF",
+  "hash_algorithm": "sha256",
+  "files": [
+    {
+      "path": "AI-DIGITAL-TRUTH-LOOP.0s",
+      "sha256": "8ec10b802a35164997a8f9e9a120b09e1d8859bcdce7f1b4670494146e625717"
+    },
+    {
+      "path": "AI-DIGITAL-TRUTH-LOOP.0s.sig",
+      "sha256": "89271cb8bb326847731395dd7b8a2471529e30e6844be6f86902926e33ffe264"
+    },
+    {
+      "path": "AI-GLOBAL-BENEFIT.0s",
+      "sha256": "076bf2eefba8512be5b1afe92ab028d523adc8effb17f05592758f2223004ea9"
+    },
+    {
+      "path": "AI-GLOBAL-BENEFIT.0s.sig",
+      "sha256": "df4fb093fac7f3fd05fc27c488b467d48f412adbac7193b485742b7103828ce2"
+    },
+    {
+      "path": "AI-METAPHOR-STATES.0s",
+      "sha256": "16b340f6f5f5c199ec866a7f269b2dc0a24bede86fe040d400e4abc372abe4e3"
+    },
+    {
+      "path": "AI-METAPHOR-STATES.0s.sig",
+      "sha256": "c62c955469a7416334af3de400c2078ba0fb9f3ee9ff4a1e0483b40c2cf325e3"
+    },
+    {
+      "path": "AI-WIR-MEDIA-LOOP.0s",
+      "sha256": "365d0d971dcbdfdaa0e56543b695e42ac7fa254fd9083b0a973d8b60cd783967"
+    },
+    {
+      "path": "AI-WIR-MEDIA-LOOP.0s.sig",
+      "sha256": "7481b54140bd668a9bb78c9ebb91d2ef8a204d90d7cb173c7b65ca798bfd2cd5"
+    },
+    {
+      "path": "HANDBOOK-DIGITAL-TRUTH-LOOP-EN.md",
+      "sha256": "17749d809394f99de27119145e30442f281a0c0d65721b77339b4fb2b0c245aa"
+    },
+    {
+      "path": "HANDBOOK-DIGITAL-TRUTH-LOOP-EN.md.sig",
+      "sha256": "f5a3535a895b729c1ed6e9e24b84d8085b2c06954e7f0a76aed1c2d183151923"
+    },
+    {
+      "path": "HANDBOOK-GLOBAL-BENEFIT-EN.md",
+      "sha256": "7eba2a6bf09e64976fc0d4ad3edb58a2559ccd7727dfa03305c24111eb1792df"
+    },
+    {
+      "path": "HANDBOOK-GLOBAL-BENEFIT-EN.md.sig",
+      "sha256": "f317c4dad52ca619fb3db0af913224655617a14127cc4119d2ae50af5c4eed6e"
+    },
+    {
+      "path": "HANDBOOK-METAPHOR-STATES-EN.md",
+      "sha256": "b690ae9ed60f17e2214057e7cfbf436dcdd3f6f8f1eb58dcacdd6bb2cf5204cf"
+    },
+    {
+      "path": "HANDBOOK-METAPHOR-STATES-EN.md.sig",
+      "sha256": "07d95761359e77074f59f3b4b3001fdcaae9df07bc8056ca11ca488b84b51b01"
+    },
+    {
+      "path": "HANDBOOK-TRUTH-SHARPENING-VIEW-EN.md",
+      "sha256": "8fc0639f2c59e4b552a95831ab9029aa213b18ff486dda0ab7d81c60ca3009f7"
+    },
+    {
+      "path": "HANDBOOK-TRUTH-SHARPENING-VIEW-EN.md.sig",
+      "sha256": "41f543c840a5fde2aebe45d4d39d4623694b91224c692e8de79ac60bb1c0dd69"
+    },
+    {
+      "path": "HANDBOOK-WIR-LOOP-MEDIA-SWAMP-EN.md",
+      "sha256": "2ac783b576294bc6238d88698cd9bb9dc9608650a2828b7875f18d21c6f81731"
+    },
+    {
+      "path": "HANDBOOK-WIR-LOOP-MEDIA-SWAMP-EN.md.sig",
+      "sha256": "020e6941017793a6fbd1cb49794a33c7f964b69bf0187fb0088954ebeaeeba35"
+    },
+    {
+      "path": "HANDBUCH-DIGITALER-WAHRHEITS-LOOP-DE.md",
+      "sha256": "b01e5d68cb2e78fa269c6570a6e7b5b5dea5016f1dc7ff0262995ef9bba4e2dc"
+    },
+    {
+      "path": "HANDBUCH-DIGITALER-WAHRHEITS-LOOP-DE.md.sig",
+      "sha256": "bdc63d9f01331c737f211ff782f5e1b014963f7f3b47c43e8fd974052ccf8317"
+    },
+    {
+      "path": "HANDBUCH-GLOBALER-NUTZEN-DE.md",
+      "sha256": "15fd5a9146a01c1f8a1fba8ea9adffd8a4e886f225ea90f58eff764a73fa1bd2"
+    },
+    {
+      "path": "HANDBUCH-GLOBALER-NUTZEN-DE.md.sig",
+      "sha256": "89755d14372a75763cfbf80d10ccda19cb738851f8217f819ed8c2bf20b50ee7"
+    },
+    {
+      "path": "HANDBUCH-METAPHER-STATES-DE.md",
+      "sha256": "181e48220a12e7e92262d661edc2a0e942b04919f7dbad976db29c5347bdf093"
+    },
+    {
+      "path": "HANDBUCH-METAPHER-STATES-DE.md.sig",
+      "sha256": "3111b0a690c33a3f5d371756c11527454cc84ab03f825f6c5bd878d8814722b1"
+    },
+    {
+      "path": "HANDBUCH-TRUTH-SHARPENING-VIEW-DE.md",
+      "sha256": "c980a1d050ceedab2aeb7bf1b0431a0aee7f5a00e02c39e6541d78fa65f9fba8"
+    },
+    {
+      "path": "HANDBUCH-TRUTH-SHARPENING-VIEW-DE.md.sig",
+      "sha256": "c1c69f026f018957d3a579913031a601b7864f42a7afe9266fe2e799ce167602"
+    },
+    {
+      "path": "HANDBUCH-WIR-LOOP-MEDIALER-SUMPF-DE.md",
+      "sha256": "9826156a27e65f4f2c493f5efde61d061048ca8016a0c30725263aa4458dd2df"
+    },
+    {
+      "path": "HANDBUCH-WIR-LOOP-MEDIALER-SUMPF-DE.md.sig",
+      "sha256": "2013560cbb8cca15ebd93b088544b75c67cc70833a9a18288aedfdf8b7ba9b08"
+    },
+    {
+      "path": "README.md",
+      "sha256": "03d8cfd7b61003b33593623f408e8d62f2a53e370b33fc825b0d0692211bed21"
+    },
+    {
+      "path": "README.md.sig",
+      "sha256": "ad6cbaa5ab75cb43cf83d192e53f8bfa56a2b4f53d06cc4583d64d80f0ee3942"
+    }
+  ]
+}
+-----BEGIN PGP SIGNATURE-----
+
+iHUEABYKAB0WIQSfTZombXIP5jNldNh7QQY3VgKXzwUCauJdFwAKCRB7QQY3VgKX
+zz6TAQCHCWZ+hE5EqFB0yGqi9GPjRzEQNkZmUzwMNKJdwYKqMQD/eM5O/OklKhao
+m8y0X3+eSEIUQthP0xPzNgX7Aes7cAY=
+=YjFC
+-----END PGP SIGNATURE-----
